@@ -1,4 +1,4 @@
-remote_theme: emcoding/jekyll-tailwind-example/
+remote_theme: poole/poole
 
 collections:
   - poems
